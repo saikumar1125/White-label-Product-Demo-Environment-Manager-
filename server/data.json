@@ -1,0 +1,304 @@
+{
+  "environments": [
+    {
+      "id": "DEMO-52983-E",
+      "client_name": "ergg",
+      "product_type": "hrms",
+      "product_label": "Custom HRMS (v4.2)",
+      "status": "Active",
+      "expires_at": "Nov 24, 2026",
+      "last_activity": "Provisioned just now",
+      "admin_email": "ete",
+      "data_preset": "fintech",
+      "session_recording": true,
+      "analytics_tracking": true,
+      "health_score": 98.4,
+      "load_state": "Operational",
+      "avatar_initials": "E",
+      "avatar_bg": "bg-orange-100",
+      "avatar_text": "text-orange-600",
+      "created_at": "2026-06-18T06:15:35.095Z",
+      "updated_at": "2026-06-18T06:15:37.468Z"
+    },
+    {
+      "id": "DEMO-90876-GH",
+      "client_name": "gvhgv hg",
+      "product_type": "crm",
+      "product_label": "Sales CRM (Alpha)",
+      "status": "Active",
+      "expires_at": "Nov 24, 2026",
+      "last_activity": "Provisioned just now",
+      "admin_email": "asdxfcgvhbjnm,@sdfghjk",
+      "data_preset": "retail",
+      "session_recording": true,
+      "analytics_tracking": true,
+      "health_score": 98.4,
+      "load_state": "Operational",
+      "avatar_initials": "GH",
+      "avatar_bg": "bg-purple-100",
+      "avatar_text": "text-purple-600",
+      "created_at": "2026-06-11T05:11:15.899Z",
+      "updated_at": "2026-06-11T05:11:21.286Z"
+    },
+    {
+      "id": "DEMO-98231-GDC",
+      "client_name": "Global Dynamics Corp",
+      "product_type": "crm",
+      "product_label": "Enterprise SaaS",
+      "status": "Active",
+      "expires_at": "Oct 24, 2026",
+      "last_activity": "2 mins ago",
+      "admin_email": "admin@gdc.com",
+      "data_preset": "retail",
+      "session_recording": true,
+      "analytics_tracking": true,
+      "health_score": 98.4,
+      "load_state": "Operational",
+      "avatar_initials": "G",
+      "avatar_bg": "bg-blue-100",
+      "avatar_text": "text-blue-600"
+    },
+    {
+      "id": "DEMO-00452-VEL",
+      "client_name": "Velocity Fintech",
+      "product_type": "crm",
+      "product_label": "Trading Platform",
+      "status": "Active",
+      "expires_at": "Nov 24, 2026",
+      "last_activity": "Provisioned just now",
+      "admin_email": "systems@velocity.io",
+      "data_preset": "fintech",
+      "session_recording": false,
+      "analytics_tracking": true,
+      "health_score": 98.4,
+      "load_state": "Operational",
+      "avatar_initials": "V",
+      "avatar_bg": "bg-orange-100",
+      "avatar_text": "text-orange-600",
+      "updated_at": "2026-06-11T05:08:57.164Z"
+    },
+    {
+      "id": "DEMO-44129-ECO",
+      "client_name": "EcoStrata Solutions",
+      "product_type": "hrms",
+      "product_label": "LMS / Training",
+      "status": "Active",
+      "expires_at": "Expires in 2 days",
+      "last_activity": "1 hour ago",
+      "admin_email": "training@ecostrata.org",
+      "data_preset": "healthcare",
+      "session_recording": true,
+      "analytics_tracking": false,
+      "health_score": 94.8,
+      "load_state": "Operational",
+      "avatar_initials": "E",
+      "avatar_bg": "bg-green-100",
+      "avatar_text": "text-green-600"
+    },
+    {
+      "id": "DEMO-11200-SRE",
+      "client_name": "Summit Real Estate",
+      "product_type": "erp",
+      "product_label": "Asset Mgmt",
+      "status": "Expired",
+      "expires_at": "Expired Sep 12, 2025",
+      "last_activity": "3 days ago",
+      "admin_email": "admin@summitre.com",
+      "data_preset": "empty",
+      "session_recording": false,
+      "analytics_tracking": false,
+      "health_score": 0,
+      "load_state": "Awaiting",
+      "avatar_initials": "S",
+      "avatar_bg": "bg-purple-100",
+      "avatar_text": "text-purple-600"
+    },
+    {
+      "id": "DEMO-90210-APX",
+      "client_name": "Apex Global",
+      "product_type": "hrms",
+      "product_label": "Custom HRMS (v4.2)",
+      "status": "Active",
+      "expires_at": "Dec 15, 2026",
+      "last_activity": "2 mins ago",
+      "admin_email": "hr@apexglobal.com",
+      "data_preset": "healthcare",
+      "session_recording": true,
+      "analytics_tracking": true,
+      "health_score": 92.2,
+      "load_state": "Operational",
+      "avatar_initials": "A",
+      "avatar_bg": "bg-blue-100",
+      "avatar_text": "text-blue-600"
+    },
+    {
+      "id": "DEMO-11822-NXS",
+      "client_name": "Nexus Systems",
+      "product_type": "crm",
+      "product_label": "Sales CRM (Alpha)",
+      "status": "Active",
+      "expires_at": "Jan 10, 2027",
+      "last_activity": "1 hour ago",
+      "admin_email": "contact@nexussystems.io",
+      "data_preset": "retail",
+      "session_recording": true,
+      "analytics_tracking": true,
+      "health_score": 96.5,
+      "load_state": "Operational",
+      "avatar_initials": "N",
+      "avatar_bg": "bg-purple-150",
+      "avatar_text": "text-purple-600"
+    }
+  ],
+  "logs": [
+    {
+      "id": "LOG_QHG7MTSPC",
+      "timestamp": "11:45:37",
+      "type": "success",
+      "client": "ergg",
+      "message": "Instance container initialized. IP allocated, data preset successfully injected.",
+      "created_at": "2026-06-18T06:15:37.471Z"
+    },
+    {
+      "id": "LOG_LTGV3N3LX",
+      "timestamp": "11:45:35",
+      "type": "info",
+      "client": "ergg",
+      "message": "Began deployment task. Allocating cluster resources, pulling product image Custom HRMS (v4.2).",
+      "created_at": "2026-06-18T06:15:35.107Z"
+    },
+    {
+      "id": "LOG_1N15SFJS7",
+      "timestamp": "10:50:34",
+      "type": "warn",
+      "client": "Acme Test Corp",
+      "message": "Manually terminated by Expert Partner. Reclaimed memory blocks and virtual storage nodes.",
+      "created_at": "2026-06-11T05:20:34.174Z"
+    },
+    {
+      "id": "LOG_YXI2ORKB2",
+      "timestamp": "10:50:34",
+      "type": "info",
+      "client": "Acme Test Corp",
+      "message": "License extended successfully. New expiry: Jan 1, 2027.",
+      "created_at": "2026-06-11T05:20:34.170Z"
+    },
+    {
+      "id": "LOG_9TIYKSQRT",
+      "timestamp": "10:50:34",
+      "type": "info",
+      "client": "Acme Test Corp",
+      "message": "Began deployment task. Allocating cluster resources, pulling product image Test HRMS Module.",
+      "created_at": "2026-06-11T05:20:34.161Z"
+    },
+    {
+      "id": "LOG_OTKAVH5GF",
+      "timestamp": "10:41:21",
+      "type": "success",
+      "message": "Instance container initialized. IP allocated, data preset successfully injected.",
+      "created_at": "2026-06-11T05:11:21.290Z"
+    },
+    {
+      "id": "LOG_0Y8BCC1RS",
+      "timestamp": "10:41:15",
+      "type": "info",
+      "client": "gvhgv hg",
+      "message": "Began deployment task. Allocating cluster resources, pulling product image Sales CRM (Alpha).",
+      "created_at": "2026-06-11T05:11:15.903Z"
+    },
+    {
+      "id": "LOG_0DTIHIEFL",
+      "timestamp": "10:38:57",
+      "type": "success",
+      "message": "Instance container initialized. IP allocated, data preset successfully injected.",
+      "created_at": "2026-06-11T05:08:57.167Z"
+    },
+    {
+      "id": "L1",
+      "timestamp": "10:48:15",
+      "type": "success",
+      "client": "Global Dynamics Corp",
+      "message": "CRM instance fully provisioned. DB query times verified (SLA 15ms)."
+    },
+    {
+      "id": "L2",
+      "timestamp": "10:45:02",
+      "type": "info",
+      "client": "Velocity Fintech",
+      "message": "Initiated DB seeding process using preset: 'Fintech Compliance'."
+    },
+    {
+      "id": "L3",
+      "timestamp": "10:40:50",
+      "type": "warn",
+      "client": "EcoStrata Solutions",
+      "message": "CPU utilization spike warning (78% load on cluster Node-B)."
+    },
+    {
+      "id": "L4",
+      "timestamp": "10:30:12",
+      "type": "error",
+      "client": "Summit Real Estate",
+      "message": "Auto-expiry reached. DNS propagation removed, container stopped safely."
+    },
+    {
+      "id": "L5",
+      "timestamp": "10:15:33",
+      "type": "success",
+      "client": "Apex Global",
+      "message": "Syncing analytics event payload to GA4 container successfully."
+    }
+  ],
+  "customers": [
+    {
+      "id": "CUST_LJTC7W127",
+      "client_name": "ergg",
+      "admin_email": "ete",
+      "status": "Active",
+      "created_at": "2026-06-18T06:15:35.116Z",
+      "updated_at": "2026-06-18T06:15:35.116Z"
+    },
+    {
+      "id": "CUST_G6N15TCMR",
+      "client_name": "Acme Test Corp",
+      "admin_email": "acme@test.com",
+      "status": "Active",
+      "created_at": "2026-06-11T05:20:34.163Z",
+      "updated_at": "2026-06-11T05:20:34.163Z"
+    },
+    {
+      "id": "CUST_3C8F5XKLU",
+      "client_name": "gvhgv hg",
+      "admin_email": "asdxfcgvhbjnm,@sdfghjk",
+      "status": "Active",
+      "created_at": "2026-06-11T05:11:15.909Z",
+      "updated_at": "2026-06-11T05:11:15.909Z"
+    },
+    {
+      "id": "CUST-GDC",
+      "client_name": "Global Dynamics Corp",
+      "admin_email": "admin@gdc.com",
+      "status": "Active"
+    },
+    {
+      "id": "CUST-VEL",
+      "client_name": "Velocity Fintech",
+      "admin_email": "systems@velocity.io",
+      "status": "Active"
+    },
+    {
+      "id": "CUST-ECO",
+      "client_name": "EcoStrata Solutions",
+      "admin_email": "training@ecostrata.org",
+      "status": "Active"
+    }
+  ],
+  "users": [
+    {
+      "id": "USER-ADMIN",
+      "email": "admin@brandsparkx.com",
+      "password": "Sparkx2026!",
+      "name": "BrandSparkX Admin"
+    }
+  ]
+}
