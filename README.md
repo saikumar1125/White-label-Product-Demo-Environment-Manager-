@@ -1,2 +1,20 @@
-# White-label-Product-Demo-Environment-Manager-
-An interactive management portal to provision, monitor, and manage white-label SaaS demo environments (CRM, HRMS, ERP). Features real-time health metrics, multi-product data presets, Supabase RLS auth, and Gemini AI insights.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/a303f9a7-98f7-4972-8c9a-e2e1a9d8f687
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
