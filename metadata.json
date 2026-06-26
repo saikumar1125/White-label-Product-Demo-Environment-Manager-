@@ -1,0 +1,6 @@
+{
+  "name": "brandsparkx Environment Manager",
+  "description": "An interactive management and provisioning portal for white-label product demonstration environments, featuring health metrics, real-time status updates, logs, and product distribution analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
